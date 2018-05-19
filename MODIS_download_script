@@ -1,0 +1,2 @@
+MOD06_L2 = 	'D608F41E-5B5F-11E8-B396-C91EAE849760' #this is the APP key
+curl -v -H 'Authorization: Bearer MY_APP_KEY' 'https://ladsweb.modaps.eosdis.nasa.gov/PATH_TO_MY_FILE' > result
